@@ -1,0 +1,15 @@
+body{
+   color: #FF3300;
+   font-size:20px;
+   font-weight: bold;
+   background-color:black;
+   background-image: url("https://s-media-cache-ak0.pinimg.com/originals/b6/2b/d6/b62bd653a5ea86726d1b28b9cfc9916d.gif");
+  background-size:cover;
+    background-size: 100px 50px;
+
+}
+.ferris{
+    width:40%;
+    border:1px solid black;
+    border-radius:20px;
+}
